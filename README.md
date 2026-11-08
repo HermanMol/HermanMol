@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @HermanMol
 - 🤓 I'm an ICT professional since 1986
 - 👀 I’m interested in Oracle (PL/SQL, SQL, APEX, REST, utPLSQL), git, PowerShell, cmd, AI (for tooling)
-- 🌱 I’m currently investigating utPLSQL.
-- 💞️ I’m looking to collaborate on - not yet
+- 🌱 I’m currently setting up an OCI to investigate utPLSQL combined with AI.
+- 💞️ I’m looking to collaborate on - That!
 - 📫 How to reach me: mail me.
 
 <!---
